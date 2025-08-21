@@ -1,0 +1,16 @@
+## 🌱 Smart Plant Dashboard Versi Visual Studio Code
+
+Project ini adalah **Smart Plant Monitoring Dashboard** untuk memantau kondisi tanaman.  
+Dashboard ini menampilkan 4 parameter utama:
+- Soil Moisture (Kelembaban Tanah)  
+- Air Temperature (Suhu Udara)  
+- Light Intensity (Intensitas Cahaya)  
+- Plant Status (Status Tanaman)
+
+Karena ukuran file project cukup besar, kode tidak diunggah langsung ke GitHub.  
+Kamu bisa mengakses source code lengkapnya melalui link berikut:  
+
+🔗 [Download Source Code Smart Plant Dashboard](https://drive.google.com/drive/folders/1vUXao5VulG9RqTPrC3VvhPQBHQj4HyuO?usp=drive_link)
+
+---
+✨ Dibangun menggunakan **Node-RED, Modbus, dan Node.js** dengan visualisasi dashboard yang sederhana dan interaktif.
